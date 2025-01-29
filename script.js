@@ -1,4 +1,4 @@
-const colors = ["#FFD1DC", "white"];
+const colors = ["#B5DFB2", "white"];
         let currentIndex = 0;
 
         function changeColor() {
